@@ -19,6 +19,7 @@
   "dependencies": {
     "commander": "^2.19.0",
     "optimist": "",
+    "pm2": "^5.3.0",
     "ranvier": "^3.0.5",
     "ranvier-datasource-file": "^1.0.3",
     "semver": "^5.6.0",
