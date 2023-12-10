@@ -1,0 +1,3 @@
+[submodule "neuro"]
+	path = neuro
+	url = git@github.com:shawncplus/neuro
